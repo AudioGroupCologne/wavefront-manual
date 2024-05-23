@@ -12,13 +12,13 @@ To build the wavefront executable from source, you will first need to install Ru
 
 Once Rust is installed, clone and enter the Github repository:
 
-```
+```bash
 git clone https://github.com/nichilum/wavefront.git
 cd wavefront
 ```
 
 Build wavefront in release mode using:
 
-```
+```bash
 cargo run --release
 ```
