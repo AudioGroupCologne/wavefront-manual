@@ -9,6 +9,7 @@
 
 # User Interface
 - [Introduction](./ui/introduction.md)
+- [Render Area](./ui/render_area.md)
 - [Topbar](./ui/topbar.md)
 - [Toolbar](./ui/toolbar.md)
 - [Sidebar](./ui/sidebar.md)
@@ -17,7 +18,7 @@
     - [Quick Settings](./ui/quick_settings.md)
 - [Preferences](./ui/preferences.md)
 - [Help](./ui/help.md)
-- [Shortcuts](./ui/shortcuts.md)
+- [Keybinds](./ui/keybinds.md)
 
 # Tools
 - [Select](./tools/select.md)
