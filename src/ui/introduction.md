@@ -1,3 +1,4 @@
 # Introduction
 
-![The Rust Logo](images/test.png)
+![Wavefront Fullscreen](images/wavefront-windowed-color.png)
+![Wavefront Fullscreen](images/wavefront-windowed-plots-color.png)
