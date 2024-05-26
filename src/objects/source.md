@@ -1,11 +1,11 @@
 # Source
 
-Sources are the only sound emitters available in wavefront. They emit sound in all directions and can be placed anywhere in the render area. Each source is can be assigned a number of properties such as frequency, amplitude and phase depending on the waveforms used.
+Sources are the only sound emitters available in wavefront. They emit sound in all directions and can be placed anywhere in the [render area](../ui/render_area.md). Each source is can be assigned a number of properties such as frequency, amplitude and phase depending on the waveforms used.
 
 The following waveforms are available for sources:
-- Sine
-- Gaussian
-- White Noise
+- [Sine](#sine)
+- [Gaussian](#gaussian)
+- [White Noise](#white-noise)
 
 ## Sine
 
