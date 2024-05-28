@@ -2,7 +2,7 @@
 
 The following page only servers as a brief introduction to wavefront. Be sure to check out the rest of this user manual to understand this piece of software in its entirety.
 
-Having either downloaded a pre-build binary or build wavefront from source you are left with a `wavefront.exe` binary. Wavefront does not require any further installation as it is a protable software. Just double click the executable to run the program.
+Having either downloaded a pre-build binary or build wavefront from source you are left with a `wavefront` binary. Wavefront does not require any further installation as it is a portable software. Just double click the executable to run the program.
 
 
 You should be greeted by this window:
