@@ -7,3 +7,6 @@ title = "Wavefront User Manual"
 
 [output.html]
 mathjax-support = true
+git-repository-url = "https://github.com/nichilum/wavefront-manual"
+git-repository-icon = "fa-github"
+edit-url-template = "https://github.com/nichilum/wavefront-manual/edit/main/{path}"
