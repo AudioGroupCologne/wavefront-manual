@@ -14,7 +14,7 @@
 - [Toolbar](./ui/toolbar.md)
 - [Sidebar](./ui/sidebar.md)
     - [Outline](./ui/outline.md)
-    - [Tool Settings](./ui/tool_settings.md)
+    - [Tool Options](./ui/tool_options.md)
     - [Quick Settings](./ui/quick_settings.md)
 - [Preferences](./ui/preferences.md)
 - [Help](./ui/help.md)
