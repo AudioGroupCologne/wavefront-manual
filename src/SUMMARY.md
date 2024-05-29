@@ -17,7 +17,7 @@
     - [Tool Settings](./ui/tool_settings.md)
     - [Quick Settings](./ui/quick_settings.md)
 - [Preferences](./ui/preferences.md)
-- [Help](./ui/help.md)
+- [About](./ui/about.md)
 - [Keybinds](./ui/keybinds.md)
 
 # Tools
