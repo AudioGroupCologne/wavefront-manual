@@ -4,7 +4,7 @@ Any of the following keybinds can also be found in the keybinds window:
 
 <p style="width: 100%; text-align: center"><img src="images/keybinds.png" alt="keybinds window" /></p>
 
-## Generell
+## General
 
 | Action | Keybind |
 |---------|---------|
@@ -14,6 +14,7 @@ Any of the following keybinds can also be found in the keybinds window:
 |Paste clipboard|Ctrl + V|
 |Save current simulation|Ctrl + S|
 |Open previous simulation|Ctrl + O|
+|Quit simulation|Ctrl + Q|
 
 ## Simulation
 
