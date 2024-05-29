@@ -13,7 +13,7 @@ Any of the following keybinds can also be found in the keybinds window:
 |Copy selected|Ctrl + C|
 |Paste clipboard|Ctrl + V|
 |Save current simulation|Ctrl + S|
-|Load previous simulation|Ctrl + L|
+|Open previous simulation|Ctrl + O|
 
 ## Simulation
 
