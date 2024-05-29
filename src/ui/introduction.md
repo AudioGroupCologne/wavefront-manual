@@ -18,18 +18,18 @@ Wavefronts interface can be separated into seven main areas. Six of those areas 
     </div>
 </p>
 
-* [Topbar](./topbar.md) (1 & red)
-    * The topbar at the very top is used to save, load and screenshot a simulation as well as to access the preferences and keybinds.
-* [Outline](./outline.md) (2 & green)
-    * The outline at the left lists all objects in the scene and offers more settings per object
-* [Tool Options](./tool_options.md) (3 & lightblue)
-    * The tool settings at the bottom left are used to change tool specific settings
-* [Quick Settings](./quick_settings.md) (4 & lightpurple)
-    * The quicksettings at the bottom left offer important settings for the overall simulation
-* [Toolbar](./toolbar.md) (5 & purple)
-    * The toolbar in the middle is used to select the current tool
-* [Render Area](./render_area.md) (6 & white)
-    * The render area on the right displays the simulation in two dimensions
+- [Topbar](./topbar.md) (1 & red)
+  - The topbar at the very top is used to save, load and screenshot a simulation as well as to access the preferences and keybinds.
+- [Outline](./outline.md) (2 & green)
+  - The outline at the left lists all objects in the scene and offers more settings per object
+- [Tool Options](./tool_options.md) (3 & lightblue)
+  - The tool settings at the bottom left are used to change tool specific settings
+- [Quick Settings](./quick_settings.md) (4 & lightpurple)
+  - The quicksettings at the bottom left offer important settings for the overall simulation
+- [Toolbar](./toolbar.md) (5 & purple)
+  - The toolbar in the middle is used to select the current tool
+- [Render Area](./render_area.md) (6 & white)
+  - The render area on the right displays the simulation in two dimensions
 
 ## Plots
 

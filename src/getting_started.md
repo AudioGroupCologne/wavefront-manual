@@ -4,18 +4,17 @@ The following page only servers as a brief introduction to wavefront. Be sure to
 
 Having either downloaded a pre-build binary or build wavefront from source you are left with a `wavefront` binary. Wavefront does not require any further installation as it is a portable software. Just double click the executable to run the program.
 
-
 You should be greeted by this window:
 
 ![Wavefront UI](images/wavefront-main.png)
 
 The default tool is the [place](tools/place.md) tool <img style="vertical-align:middle" src="images/place.png" alt="Place Tool Icon" height="20em"/> which allows you to place one of the following objects:
 
-* [Source](objects/source.md)
-* [Rectangular](objects/rect_wall.md) or [circular](objects/circ_wall.md) wall
-* [Microphone](objects/microphone.md)
+- [Source](objects/source.md)
+- [Rectangular](objects/rect_wall.md) or [circular](objects/circ_wall.md) wall
+- [Microphone](objects/microphone.md)
 
-As show in the [tool option](ui/tool_settings.md) panel `Source` is selected meaning you'll be placing sources. Click on the [render area](./ui/render_area.md) to place a source. A new entry named `Source 0` should appear in the [outline](ui/outline.md) panel. 
+As show in the [tool option](ui/tool_settings.md) panel `Source` is selected meaning you'll be placing sources. Click on the [render area](./ui/render_area.md) to place a source. A new entry named `Source 0` should appear in the [outline](ui/outline.md) panel.
 
 Press `space` or click the `Start` button to run the simulation. Press `space` again to stop.
 

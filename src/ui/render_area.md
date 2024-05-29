@@ -3,6 +3,7 @@
 The render area is the main area of the user interface where you can interact with the room and its objects. The render area is also where you can place, move, resize, and delete objects. The visual representation (the texture) of the render area scales with the size of the window. However the underlying data (the simulation itself) is done in a 700x700 grid. Due to this, artifacts may appear at some resolutions.
 
 ## Gizmos
+
 Gizmos appear for each object, when you hover over the area. To get a better view of the simulation, you can hide the gizmos simply by hovering over a different area of the screen.
 
 ## Gradients
