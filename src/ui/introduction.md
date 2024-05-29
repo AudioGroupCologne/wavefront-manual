@@ -22,7 +22,7 @@ Wavefronts interface can be separated into seven main areas. Six of those areas 
     * The topbar at the very top is used to save, load and screenshot a simulation as well as to access the preferences and keybinds.
 * [Outline](./outline.md) (2 & green)
     * The outline at the left lists all objects in the scene and offers more settings per object
-* [Tool Settings](./tool_settings.md) (3 & lightblue)
+* [Tool Options](./tool_options.md) (3 & lightblue)
     * The tool settings at the bottom left are used to change tool specific settings
 * [Quick Settings](./quick_settings.md) (4 & lightpurple)
     * The quicksettings at the bottom left offer important settings for the overall simulation
