@@ -3,6 +3,7 @@
 The topbar is a horizontal bar at the top of the screen that contains the following elements:
 
 - **File**
+  - [New](#new)
   - [Save](#save)
   - [Open](#open)
   - [Screenshot](#screenshot)
@@ -18,6 +19,10 @@ The topbar is a horizontal bar at the top of the screen that contains the follow
 ## File Menu
 
 Wavefront presents multiple options the manage simulations:
+
+### New
+
+A new simulation can be created by clicking the `New` button or using the `Ctrl+N` keybind.
 
 ### Save
 
