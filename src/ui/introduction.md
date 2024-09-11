@@ -33,7 +33,7 @@ Wavefronts interface can be separated into seven main areas. Six of those areas 
 
 ## Plots
 
-The [plot panel](../plots/volume.md) can be accessed by enabling the `Show Plots` checkbox in the quick settings. Once clicked another seventh ui area will open, as shown in the image below:
+The [plot panel](../ui/plots/volume.md) (7 & green) can be accessed by enabling the `Show Plots` checkbox in the quick settings. Once clicked another seventh ui area will open, as shown in the image below:
 
 <p style="margin-bottom: 0px">
     <img src="images/wavefront-windowed-plots-color.png" alt="Wavefront Window Plots Color" />

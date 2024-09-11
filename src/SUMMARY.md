@@ -17,6 +17,9 @@
   - [Outline](./ui/outline.md)
   - [Tool Options](./ui/tool_options.md)
   - [Quick Settings](./ui/quick_settings.md)
+- [Plot Panel]()
+  - [Volume](./ui/plots/volume.md)
+  - [Frequency](./ui/plots/frequency.md)
 - [Preferences](./ui/preferences.md)
 - [About](./ui/about.md)
 - [Keybinds](./ui/keybinds.md)
@@ -35,11 +38,6 @@
 - [Walls](./objects/walls.md)
   - [Rectangular Wall](./objects/rect_wall.md)
   - [Circular Wall](./objects/circ_wall.md)
-
-# Plots
-
-- [Volume](./plots/volume.md)
-- [Frequency](./plots/frequency.md)
 
 ---
 
