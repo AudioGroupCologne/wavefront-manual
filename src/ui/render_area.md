@@ -12,4 +12,4 @@ Rendering happens each frame of the UI-Thread (VSynced to your monitor, usually 
 
 ## Gamma Correction
 
-The pixel buffer used ([bevy_pixel_buffer](https://github.com/Zheoni/bevy_pixel_buffer)) for rendering is in linear color space. This means that the colors are not gamma corrected. To correct this, a gamma correction is applied to the gradient colors using the gamma value 2.2.
+The pixel buffer used ([bevy_pixel_buffer](https://github.com/Zheoni/bevy_pixel_buffer)) for rendering is stroring pixel values in linear color space. This means that the colors are not gamma corrected. To correct this, a gamma correction is applied to the gradient colors using the gamma value 2.2.
