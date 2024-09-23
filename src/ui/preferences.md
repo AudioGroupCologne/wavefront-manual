@@ -24,6 +24,6 @@ Experimental settings offer toggles for experimental features which are disabled
 
 The `Frequency analyzer` toggle enables the use of the [frequency plot](./plots/frequency.md). There is a known bug in the analysis of white noise or Gaussian sources post-diffraction, characterized by the emergence of unexplainable high-frequency components.
 
-The `Mic values export` toggle adds an `Export CSV` button to each microphone entry in the [outline](./outline.md) panel. This button exports all recorded pressure values into a `.csv` file.
+The `Mic values export` toggle adds an `Export CSV` button to each microphone entry in the [outline](./outline.md) panel. This button exports all recorded pressure values into a `.csv` file. The export is done in the background and the file is saved in the current working directory.
 
 The `Wave files` toggle loads a `.wav` file and sets the `delta l` value to the corresponding sample rate. Each source now supports the `Wave file` waveform. Selecting this waveform type makes the source use the loaded wave file as an input. The simulation time controls the playback time of the audio file. A new `Export wav` button is also added to each microphone entry in the [outline](./outline.md) panel. This button export all recorded pressure values into a wave file.
