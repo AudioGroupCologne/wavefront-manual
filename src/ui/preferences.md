@@ -20,7 +20,7 @@ The `Min Gradient` and `Max Gradient` values set the minimum and maximum pressur
 
 ## Experimental Settings
 
-The experimental settings offer toggles for experimental features which are disabled / hidden by default. These features might be incomplete, broken or subject to change in the future.
+Experimental settings offer toggles for experimental features which are disabled / hidden by default. These features might be incomplete, broken or subject to change in the future.
 
 The `Frequency analyzer` toggle enables the use of the [frequency plot](./plots/frequency.md). There is a known bug in the analysis of white noise or Gaussian sources post-diffraction, characterized by the emergence of unexplainable high-frequency components.
 
