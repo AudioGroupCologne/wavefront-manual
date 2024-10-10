@@ -13,7 +13,7 @@ It is grouped into four rows:
 
 The first row offers the `Start`/`Stop` button which is used to start or stop the simulation. \
 The `Reset` button resets the simulation area and time. The simulation does not pause after the reset. \
-The `Delete All` button deletes all simulation objects. It resets the simulation area but not the simulation time. <!-- we should change that --> \
+The `Delete All` button deletes all simulation objects. It resets the simulation area but not the simulation time. <!-- TODO: we should change that --> \
 The `Reset on change` checkbox configures the behaviour when simulation objects are changed. When enabled the simulation area and time are reset every time an objects state changes. \
 The `Show plots` checkbox enables the plot panel including the [volume](./plots/volume.md) and [frequency](./plots/frequency.md) plots.
 
