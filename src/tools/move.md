@@ -6,4 +6,4 @@ When the gizmo is clicked using the move tool, the object is selected, allowing 
 
 The move tool can be activated either by clicking the corresponding icon in the [toolbar](../ui/toolbar.md) or by pressing `W`.
 
-While moving a wall, its position can be snapped to the nearest multiple of ten by holding down the `Ctrl` key. <!-- TODO: Why only walls? -->
+While moving an object, its position can be snapped to the nearest multiple of ten by holding down the `Ctrl` key.
