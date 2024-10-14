@@ -8,7 +8,7 @@ Executable binaries are available for download on the [GitHub Releases page](htt
 
 ## Build from source using Rust
 
-To build the wavefront executable from source, you will first need to install Rust and Cargo. Follow the instructions on the [Rust installation page](https://www.rust-lang.org/tools/install). Wavefront is build using Rust version 1.78.
+To build the wavefront executable from source, you will first need to install Rust and Cargo. Follow the instructions on the [Rust installation page](https://www.rust-lang.org/tools/install). Wavefront is built using Rust version 1.78.
 
 <!-- I don't know which Rust versions we can officially support -->
 
