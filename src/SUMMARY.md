@@ -9,7 +9,7 @@
 
 # User Interface
 
-- [Introduction](./ui/introduction.md)
+- [Layout](./ui/layout.md)
 - [Render Area](./ui/render_area.md)
 - [Topbar](./ui/topbar.md)
 - [Toolbar](./ui/toolbar.md)
@@ -17,7 +17,7 @@
   - [Outline](./ui/outline.md)
   - [Tool Options](./ui/tool_options.md)
   - [Quick Settings](./ui/quick_settings.md)
-- [Plot Panel]()
+- [Plot Panel](./ui/plots.md)
   - [Volume](./ui/plots/volume.md)
   - [Frequency](./ui/plots/frequency.md)
 - [Preferences](./ui/preferences.md)
@@ -36,8 +36,6 @@
 - [Source](./objects/source.md)
 - [Microphone](./objects/microphone.md)
 - [Walls](./objects/walls.md)
-  - [Rectangular Wall](./objects/rect_wall.md)
-  - [Circular Wall](./objects/circ_wall.md)
 
 ---
 

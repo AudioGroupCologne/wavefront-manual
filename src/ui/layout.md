@@ -1,4 +1,4 @@
-# Introduction
+# Layout
 
 After starting wavefront, the opened window should look similar to the image below.
 
