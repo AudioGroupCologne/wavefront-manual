@@ -13,3 +13,5 @@ Rectangular walls are defined by two points: the top-left and bottom-right corne
 ## Circle Walls
 
 Circular walls are defined by a center point and a radius. The reflection factor and hollow properties are applied to the entire circle.
+
+For **hollow** circular walls a `Opening angle` can be defined. This angle determines the opening of the circle in degrees. The opening angle is measured from the center of the circle to the left and right side of the opening. This opening can be shifted by defining an offset angle called `Rotation angle`.
