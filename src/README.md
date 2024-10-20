@@ -12,7 +12,7 @@ It can be used to simulate point sound sources in a free field. A number of obje
 
 ## Contributing
 
-This project was developed by students of the [University of Applied Sciences Cologne](https://www.th-koeln.de/). If you would like to contribute to the project, open a pull request or issue on the [GitHub repository](https://github.com/AudioGroupCologne/wavefront)
+This project was developed by students of the [University of Applied Sciences Cologne](https://www.th-koeln.de/). If you would like to contribute to the project, open a pull request or issue on the [GitHub repository](https://github.com/AudioGroupCologne/wavefront).
 
 ## License
 
