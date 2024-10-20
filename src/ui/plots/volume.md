@@ -9,7 +9,7 @@ The volume plot panel plots microphone amplitude against simulation time in mill
     </div>
 </p>
 
-By default the plot window covers the last 6 milliseconds of simulation time. \
+By default, the plot window covers the last 6 milliseconds of simulation time. \
 Unchecking the `Scroll volume plot` checkbox allows the user to freely move inside the plot window by using:
 - `Scroll` to move vertically
 - `Shift + Scroll` to move horizontally

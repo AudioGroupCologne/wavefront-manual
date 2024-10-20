@@ -1,10 +1,10 @@
 # Tool Options
 
-The tool options panel is used for customizing a tools behavior.
+The tool options panel is used for customizing a tool's behavior.
 
 ## No Tool Options
 
-When a tool lacking configurable options is selected, the tool options panel will display an alert message. This is the case for all tools expect for the [place](../tools/place.md) tool <img style="vertical-align:middle" src="../tools/images/place.png" alt="Move Tool Icon" height="20em"/>.
+When a tool lacking configurable options is selected, the tool options panel will display an alert message. This is the case for all tools except for the [place](../tools/place.md) tool <img style="vertical-align:middle" src="../tools/images/place.png" alt="Move Tool Icon" height="20em"/>.
 
 <p style="margin-bottom: 0px; text-align:center">
     <img src="images/tool-options-other.png" alt="Tool without tool options" />
@@ -29,7 +29,7 @@ The place tool will allow you to change the object type that is to be placed. A 
     </div>
 </p>
 
-By default `Source` will be selected. You can also use [keybinds](./keybinds.md) to change this setting.
+By default, `Source` will be selected. You can also use [keybinds](./keybinds.md) to change this setting.
 
 When selecting either `Rectangle Wall` or `Circular Wall` the tool options panel will show the `Wall reflection factor` and `Hollow` settings.
 

@@ -4,7 +4,7 @@ Walls can be placed in the simulation area. In this version of wavefront there a
 
 All wall types have the following properties:
 - Reflection factor (0-1): The reflection factor determines how much of the wave is reflected when it hits the wall. A reflection factor of 0 means that the wave is absorbed completely, while a reflection factor of 1 means that the wave is reflected completely.
-- Hollow (true/false): If a wall is hollow, wave propagation is allowed inside of the wall. This can be useful for creating complex waveguides or rooms.
+- Hollow (true/false): If a wall is hollow, wave propagation is allowed inside the wall. This can be useful for creating complex waveguides or rooms.
 
 ## Rectangle Walls
 
@@ -14,4 +14,4 @@ Rectangular walls are defined by two points: the top-left and bottom-right corne
 
 Circular walls are defined by a center point and a radius. The reflection factor and hollow properties are applied to the entire circle.
 
-For **hollow** circular walls a `Opening angle` can be defined. This angle determines the opening of the circle in degrees. The opening angle is measured from the center of the circle to the left and right side of the opening. This opening can be shifted by defining an offset angle called `Rotation angle`.
+For **hollow** circular walls, an `Opening angle` can be defined. This angle determines the opening of the circle in degrees. The opening angle is measured from the center of the circle to the left and right sides of the opening. This opening can be shifted by defining an offset angle called `Rotation angle`.

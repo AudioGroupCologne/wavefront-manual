@@ -18,7 +18,7 @@ The topbar is a horizontal bar at the top of the screen that contains the follow
 
 ## File Menu
 
-Wavefront presents multiple options the manage simulations:
+Wavefront presents multiple options to manage simulations:
 
 ### New
 
@@ -45,7 +45,7 @@ Quitting can be done here or using `Ctrl+Q`. But let's be real, quitting isn't r
 
 ### Undo
 
-Undoes all changes occured in the last second.
+Undoes all changes occurred in the last second.
 
 ### Redo
 
